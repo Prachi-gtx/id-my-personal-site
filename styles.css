@@ -1,0 +1,36 @@
+body{
+    background-color:#cffffe;
+    margin: 100px,auto,100px,auto;
+
+}
+
+
+
+
+
+    h1{
+        color:#12cad6;
+        
+    }
+    .information{
+        text-align: center;
+    }
+
+
+#skills{
+    color:#1d1b38;
+
+    
+}
+ 
+#education{
+    color:#1d1b38;
+
+}
+hr{
+    border-color:#3b6978;
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 5px;
+    width: 5%;
+}
